@@ -1,9 +1,3 @@
-<style>
-justify {
-    text-align: justify
-}
-</style>
-
 ## FUNDAMENTACION
 
 <justify>

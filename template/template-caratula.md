@@ -1,7 +1,3 @@
-<style>
-    g { color:gray; font-size: 18px; position: absolute; left: 30%}
-</style>
-
 ### PROVINCIA DE BUENOS AIRES
 ### DIRECCIÓN GENERAL DE CULTURA y EDUCACIÓN
 ### EESTNº3 “NIKOLA TESLA”
